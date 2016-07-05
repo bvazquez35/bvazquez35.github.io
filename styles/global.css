@@ -1,0 +1,20 @@
+body {
+  text-align: center;
+  background-color: #086788;
+}
+
+main {
+  max-width: 40em;
+  margin: 6em auto;
+  padding: 2em;
+  background-color: #F0C808;
+  color: #000;
+  border: 5px solid #FFF1D0;
+}
+
+.bidoof {
+  max-width: 90%;
+  display: block;
+  margin: auto;
+  overflow: hidden;
+}
